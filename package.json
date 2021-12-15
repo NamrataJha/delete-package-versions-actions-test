@@ -1,0 +1,22 @@
+{
+  "name": "@namratajha/delete-package-versions-actions-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NamrataJha/delete-package-versions-actions-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NamrataJha/delete-package-versions-actions-test/issues"
+  },
+  "homepage": "https://github.com/NamrataJha/delete-package-versions-actions-test#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
