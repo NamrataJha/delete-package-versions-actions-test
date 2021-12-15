@@ -25,6 +25,7 @@ jobs:
           tag-prefix: ''
       - name: "cat package.json"
         run: cat ./package.json
+      - run: npm install
       - run: npm ci
       - run: npm publish
         env: 
